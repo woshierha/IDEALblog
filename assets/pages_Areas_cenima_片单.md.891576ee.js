@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t}from"./chunks/framework.f16e6129.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/Areas/cenima/片单.md","filePath":"pages/Areas/cenima/片单.md"}'),s={name:"pages/Areas/cenima/片单.md"};function r(c,n,o,p,i,_){return a(),t("div")}const f=e(s,[["render",r]]);export{d as __pageData,f as default};
