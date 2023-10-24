@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t}from"./chunks/framework.36c93c4c.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/Areas/book/小狗钱钱.md","filePath":"pages/Areas/book/小狗钱钱.md"}'),o={name:"pages/Areas/book/小狗钱钱.md"};function s(r,c,n,_,p,d){return a(),t("div")}const f=e(o,[["render",s]]);export{m as __pageData,f as default};
